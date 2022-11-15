@@ -1,0 +1,11 @@
+body {
+    margin: auto;
+}
+
+header {
+    background-color: #232c34;
+    color: #f5f5f5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px 50px;
+    text-align: center;
+}
